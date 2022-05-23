@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/SYSTEM-V-darkred?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PROJECT-ELYSIA-red?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PROJECT-INTRINSIC-gold?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PROJECT-PHEONIXFALL-darkorange?&style=for-the-badge" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/LANGUAGE-PHP-purple?&style=for-the-badge" />
